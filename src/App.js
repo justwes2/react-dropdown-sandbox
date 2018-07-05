@@ -43,11 +43,11 @@ class Card extends Component {
       <div className=''>
         About
       </div>
-      <div className=' '>
-        <div className='' onMouseOver={this.showMenu}>
-          Show menu
-        </div>
+
+      <div className='' onMouseOver={this.showMenu}>
+        Show menu
       </div>
+
 
 
         {

@@ -42,6 +42,9 @@ nav {
   z-index: 1
 }
 
+.navItem {
+  margin: 2vh
+}
 .menu {
   position: absolute;
   justify-content: space-around;
